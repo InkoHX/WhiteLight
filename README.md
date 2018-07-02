@@ -1,0 +1,2 @@
+# WhiteLight
+JDAで作られたDiscordbot
